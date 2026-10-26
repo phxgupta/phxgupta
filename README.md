@@ -9,9 +9,8 @@
 
 I am a passionate web developer who enjoys building responsive web applications, developing REST APIs, and turning ideas into practical software solutions.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Abhishek-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-phxgupta-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phxgupta)
+[![Profile Views](https://komarev.com/ghpvc/?username=phxgupta&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge)](https://github.com/phxgupta)
 
 <a href="https://www.linkedin.com/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -27,7 +26,7 @@ I am a passionate web developer who enjoys building responsive web applications,
 - 💻 Passionate about full-stack web development
 - 🌱 Working with React.js, JavaScript, Node.js, Express.js, and MongoDB
 - 🚀 Building **EduERP**, a multi-institute School ERP SaaS application
-- 📝 Developed projects like an Online Exam Preparation Platform and Digital Library Management System
+- 📝 Developed an Online Exam Preparation Platform and a Digital Library Management System
 - 🛍️ Familiar with Shopify, Liquid, and e-commerce customization
 - 🔐 Learning and implementing REST APIs, JWT authentication, and role-based access control
 - 🧠 Continuously improving my problem-solving and software development skills
@@ -110,13 +109,13 @@ Worked on Shopify storefront customization and e-commerce development.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=phxgupta&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Abhishek's GitHub Statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phxgupta&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+<img src="https://streak-stats.demolab.com?user=phxgupta&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
 
@@ -138,7 +137,7 @@ Worked on Shopify storefront customization and e-commerce development.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/phxgupta">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
